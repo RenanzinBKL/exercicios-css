@@ -1,0 +1,27 @@
+header, div, ul, li, p {
+    list-style: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.div {
+    background-color: grey;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    color: white;
+}
+
+button {
+    padding: 10px;
+}
+
+ul {
+    display: flex;
+}
